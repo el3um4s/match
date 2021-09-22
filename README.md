@@ -3,7 +3,7 @@ Alternative to JavaScript’s switch statement with a functional twist
 
 Based on [Alternative to JavaScript’s switch statement with a functional twist](https://codeburst.io/alternative-to-javascripts-switch-statement-with-a-functional-twist-3f572787ba1c)
 
-
+NPM: [@el3um4s/match](https://www.npmjs.com/package/@el3um4s/match)
 ### Install and use the package
 
 To use the package in a project:

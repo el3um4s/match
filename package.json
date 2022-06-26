@@ -1,6 +1,6 @@
 {
   "name": "@el3um4s/match",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Alternative to JavaScript’s switch statement with a functional twist",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
